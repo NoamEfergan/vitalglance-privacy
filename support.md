@@ -1,3 +1,3 @@
 # VitalGlance Support
 
-Email: noam.efergan@gmail.com
+Email: noamifergann@gmail.com

@@ -70,4 +70,4 @@ We are committed to resolving any privacy concerns you may have.
 
 ---
 
-*This privacy policy complies with UK GDPR requirements and Apple App Store guidelines. VitalGlance is developed by [YOUR_NAME] and is available exclusively on the Apple App Store for Apple Watch.* 
+*This privacy policy complies with UK GDPR requirements and Apple App Store guidelines. VitalGlance is developed by Noam Efergan and is available exclusively on the Apple App Store for Apple Watch.* 
