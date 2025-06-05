@@ -63,7 +63,7 @@ We don't retain any data because we don't collect any data. When you delete Vita
 
 ## Contact Us
 If you have any questions about this Privacy Policy, please contact us:
-- **Email:** [YOUR_EMAIL_HERE]
+- **Email:** noamifergan@gmail.com
 - **App Store:** VitalGlance support section
 
 We are committed to resolving any privacy concerns you may have.
